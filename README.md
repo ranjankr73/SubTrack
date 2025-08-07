@@ -15,12 +15,9 @@ A comprehensive REST API for managing and tracking subscriptions with automated 
 ## 📋 Table of Contents
 
 -   [Installation](#installation)
--   [Environment Variables](#environment-variables)
 -   [API Endpoints](#api-endpoints)
 -   [Database Schema](#database-schema)
--   [Project Structure](#project-structure)
 -   [Usage](#usage)
--   [Contributing](#contributing)
 
 ## 🛠 Installation
 
